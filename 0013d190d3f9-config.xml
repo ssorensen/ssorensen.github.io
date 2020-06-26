@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+<amie>
+  <auth_token>5HKox2gbLN2cklz8q9gDT2WR4EkE9XMTJHBIx9nI</auth_token>
+  <enable>true</enable>
+  <region>custom</region>
+  <server>4ofqi1sfg3.execute-api.us-west-2.amazonaws.com</server>
+</amie>
+<dect>
+  <subscription_allowed>false</subscription_allowed>
+</dect>
+<license>S0xWMwEFEC66NAACBOh+9lwDAQwEBwAAAAAAAAEGAQQHBNy0vXEIIPeD46qLOyYTf5wR4TJufl9Q5Oc7l4je5T5Wjl3WoJgX</license>
+<network>
+  <bootproto>dhcp</bootproto>
+  <ipaddr>192.168.0.1</ipaddr>
+  <netmask>255.255.255.0</netmask>
+</network>
+<security>
+  <legacy_tls>false</legacy_tls>
+  <password>$s1$098001$GH1sgJyOWd5Slo6nw0wZMg==$Hkdm2y+pqWYdBVygjaEG3aZdn9ocatINgY2yjrMmGaM9izmAn6R6wYsi8OR2q4vi93P1B4I6ELtNkBEV5dmXJA==</password>
+  <password_timestamp>1593175209</password_timestamp>
+</security>
+</config>
